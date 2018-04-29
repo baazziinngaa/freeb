@@ -6,10 +6,10 @@
 		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 		<title>Freebook</title>
 		
-		<link type="text/css" 
+		<!--  <link type="text/css" 
 			rel="stylesheet"
 			href="${pageContext.request.contextPath}/resources/css/styles.css"/>
-		
+		-->
 	</head>
 	<body>
 	

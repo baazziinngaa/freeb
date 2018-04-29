@@ -1,4 +1,4 @@
-package com.mateuszochab.freebook.controllers;
+package com.mateuszochab.freebook.freebookapp;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 public class MainController {
 
 	
-		@GetMapping("/")
+		@GetMapping("/abc")
 		public String mainPage() {
 			
 			return "index";
